@@ -1,8 +1,7 @@
 # Image Tiles Scroll Animation
 
-Scroll animations for image grids using [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/).
 
-
+![Tile Scroll](https://tympanus.net/codrops/wp-content/uploads/2020/10/ScrollAnimationLocomotive.jpg)
 ## Installation
 
 Install dependencies:
