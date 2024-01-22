@@ -1,5 +1,5 @@
 {
-  "name": "TileScroll",
+  "name": "profolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,17 +8,6 @@
     "clean": "rm -rf dist/*",
     "build:parcel": "parcel build src/index.html --no-content-hash --no-minify --no-source-maps --public-url ./",
     "build": "npm run clean && npm run build:parcel"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/codrops/[NAME].git"
-  },
-  "keywords": [],
-  "author": "Codrops",
-  "license": "MIT",
-  "homepage": "[HOMEPAGE]",
-  "bugs": {
-    "url": "https://github.com/codrops/[NAME]/issues"
   },
   "dependencies": {
     "imagesloaded": "^4.1.4",
